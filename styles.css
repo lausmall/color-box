@@ -1,0 +1,12 @@
+.clearfix {
+  clear:both;
+}
+
+div {
+  height: 50px;
+  width: 50px;
+  float: left;
+  margin-right: 10px; 
+  margin-top: 10px;
+  background-color: #e6b9be;
+}
